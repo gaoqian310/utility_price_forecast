@@ -3,6 +3,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-#### There are many great REThis project is sponsed by SPE Calgary Mentor Program p>
+#### This project is sponsed by SPE Calgary Mentor Program
 
-#### our goal is utilizing historical weather data, power generator data and elecricity price to forcast future electricity price p>
+#### our goal is utilizing historical weather data, power generator data and elecricity price to forcast future electricity price
