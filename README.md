@@ -1,7 +1,7 @@
-<h3 align="center">Utility forecastor with historical data</h3>
+<h2 align="center">Utility forecastor with historical data</h3>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### About The Project
 
 #### This project is sponsed by SPE Calgary Mentor Program
 
