@@ -27,14 +27,25 @@ If there are any questions or problems, please email the AESO at manalysis@aeso.
 COLUMN DEFINITIONS
 ------------------
 Date (MST) - Hour start in Mountain Standard Time
+
 Date (MPT) - Hour start in Mountain Prevailing Time (i.e. MST or MDT, as appropriate)
+
 Asset Short Name - Abbreviation for asset
+
 Asset Name - asset name
+
 Asset Grouping - the meter that behind-the-fence assets share, if appropriate.
+
 Volume - volume reported via SCADA (similar to that reported on CSD page)
+
 Maximum Capability - maximum capacity reported to the AESO
+
 System Capability - capacity available to AESO via contracted volume, if any
+
 Fuel Type - main fuel categorization
+
 Sub Fuel Type - sub fuel categorization
+
 Planning Area - AESO planning area the asset is located in
+
 Region - AESO region the asset is located in
